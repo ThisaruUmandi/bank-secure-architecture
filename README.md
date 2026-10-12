@@ -14,7 +14,7 @@ The analysis looks at the platform end to end. It identifies critical assets and
  
 | | |
 |---|---|
-| **Grade** | **79 / 100** (First Class) |
+| **Grade** | **79 / 100** |
 | **Module** | Cyber Security · BSc (Hons) Computing · Coventry University (via NIBM) |
 | **Assessment** | Written report (~4,500 words) + viva |
  
