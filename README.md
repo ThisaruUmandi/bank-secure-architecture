@@ -32,7 +32,7 @@ The full report is available on request.
 | | |
 |---|---|
 | **Module** | Cyber Security, BSc (Hons) Computing, Coventry University (via NIBM) |
-| **Grade** | **79 / 100 (First Class)** |
+| **Grade** | **79 / 100 ** |
 | **Assessment** | Written report (38 pages) and viva |
  
 > *"A solid and well-rounded submission demonstrating a good understanding of both the security requirements and the deployment environment. The SRS was clearly articulated and Part B showed a thoughtful approach to the security apparatus. The viva performance was strong, reflecting genuine engagement with the material. A commendable piece of work overall."*
@@ -47,7 +47,7 @@ The full report is available on request. Contact me via [LinkedIn](https://www.l
  
 | Area | What this analysis covers |
 |---|---|
-| **Result** | **79/100 (First Class)**, with a strong viva |
+| **Result** | **79/100**, with a strong viva |
 | **Threat analysis** | 9 critical asset groups, 10 key risks, 13 integrations, including CEFT/LankaPay, core banking, AML and KYC |
 | **Security requirements** | 13 requirements across IAM, network, system, application and data layers, each with **pass/fail acceptance tests** |
 | **Identity & access** | MFA for all users, RBAC with 6 roles, admin access only over VPN from certificate-verified devices, secrets kept in a vault or HSM |
